@@ -29,7 +29,9 @@ Este proyecto contiene un conjunto de vistas HTML que conforman un prototipo de 
 ---
 
 ## 🚀 ¿Cómo abrir el prototipo?
-
+### Ingresa al siguiente link 
+- https://cain7564.github.io/HCI/
+  
 ### 1. Descargar o clonar el proyecto
 - Si estás en GitHub: haz clic en `Code > Download ZIP` y extrae los archivos.
 - Si estás trabajando en local, solo asegúrate de tener los archivos `.html` listos en una carpeta.
